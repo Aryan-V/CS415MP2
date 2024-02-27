@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/aryanvaswani/Documents/Unreal Projects/CS415MP2LevelDesign 5.3/Content/LearningKit_Games/Maps/MP2Map_AV.umap",
+				"/Users/aryanvaswani/Documents/Unreal Projects/CS415MP2LevelDesign 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"/Users/aryanvaswani/Documents/Unreal Projects/CS415MP2LevelDesign 5.3/Content/LearningKit_Games/Blueprints/Widgets/HealthBar_BP.uasset",
+				"/Users/aryanvaswani/Documents/Unreal Projects/CS415MP2LevelDesign 5.3/Content/LearningKit_Games/Blueprints/Widgets/GameOver_BP.uasset",
+				"/Users/aryanvaswani/Documents/Unreal Projects/CS415MP2LevelDesign 5.3/Content/LearningKit_Games/Blueprints/BaseClasses/Master_Pickup_BP.uasset",
+				"/Users/aryanvaswani/Documents/Unreal Projects/CS415MP2LevelDesign 5.3/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
+				"/Users/aryanvaswani/Documents/Unreal Projects/CS415MP2LevelDesign 5.3/Content/LearningKit_Games/Blueprints/Widgets/FallZone_BP.uasset",
+				"/Users/aryanvaswani/Documents/Unreal Projects/CS415MP2LevelDesign 5.3/Content/LearningKit_Games/Blueprints/Widgets/Pursuer_AIController.uasset",
+				"/Users/aryanvaswani/Documents/Unreal Projects/CS415MP2LevelDesign 5.3/Content/LearningKit_Games/Blueprints/Widgets/Pursuer_BP.uasset",
+				"/Users/aryanvaswani/Documents/Unreal Projects/CS415MP2LevelDesign 5.3/Content/LearningKit_Games/Blueprints/Widgets/Restart_BP.uasset",
+				"/Users/aryanvaswani/Documents/Unreal Projects/CS415MP2LevelDesign 5.3/Content/LearningKit_Games/Blueprints/Widgets/YouWon_BP.uasset",
+				"/Users/aryanvaswani/Documents/Unreal Projects/CS415MP2LevelDesign 5.3/Content/LearningKit_Games/Blueprints/Widgets/Mortar_BP.uasset",
+				"/Users/aryanvaswani/Documents/Unreal Projects/CS415MP2LevelDesign 5.3/Content/LearningKit_Games/Blueprints/Widgets/Projectile_BP.uasset",
+				"/Users/aryanvaswani/Documents/Unreal Projects/CS415MP2LevelDesign 5.3/Content/LearningKit_Games/Assets/Environment/Islands/SM_FloatingIsland_L.uasset",
+				"/Users/aryanvaswani/Documents/Unreal Projects/CS415MP2LevelDesign 5.3/Content/LearningKit_Games/Blueprints/Widgets/904768-200.uasset",
+				"/Users/aryanvaswani/Documents/Unreal Projects/CS415MP2LevelDesign 5.3/Content/LearningKit_Games/Blueprints/Widgets/Turret_BP.uasset",
+				"/Users/aryanvaswani/Documents/Unreal Projects/CS415MP2LevelDesign 5.3/Content/LearningKit_Games/Blueprints/Widgets/TurretProjectile_BP.uasset",
+				"/Users/aryanvaswani/Documents/Unreal Projects/CS415MP2LevelDesign 5.3/Content/LearningKit_Games/Blueprints/Widgets/EAIState.uasset",
+				"/Users/aryanvaswani/Documents/Unreal Projects/CS415MP2LevelDesign 5.3/Content/LearningKit_Games/Blueprints/Widgets/NewPCGGraph.uasset",
+				"/Users/aryanvaswani/Documents/Unreal Projects/CS415MP2LevelDesign 5.3/Content/LearningKit_Games/Blueprints/Widgets/TriggerBox_BP.uasset"
+			]
+		}
+	]
+}
